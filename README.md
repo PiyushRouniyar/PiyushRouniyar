@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/three-realms.gif" width="100%" alt="Minecraft-inspired animated profile header"/>
+<img src="./assets/minecraft-header.svg" width="100%" alt="Piyush Rouniyar Minecraft Banner featuring Steve, Creeper, Wither & Ender Dragon"/>
 
 <br>
 
