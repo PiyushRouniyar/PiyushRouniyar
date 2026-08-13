@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/three-realms.gif" width="100%" alt="Minecraft Three Realms Header"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=22&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=750&lines=PIYUSH+ROUNIYAR;FULL-STACK+%7C+AI%2FML+ENGINEER;BUILD.+BREAK.+LEARN.+SHIP." alt="Piyush Rouniyar Pixel Title">
+<img src="./assets/minecraft-header.gif" width="100%" alt="Minecraft Profile Header"/>
 
 <br><br>
 
 <a href="https://github.com/PiyushRouniyar"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/piyush-rouniyar-3a0755398"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:piyushrouniyarnepal@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=700&color=55FF55&center=true&vCenter=true&width=720&lines=FULL-STACK+DEVELOPER+%7C+AI+%26+ML+ENGINEER;BUILDING+SCALABLE+WEB+APPS+%26+INTELLIGENT+SYSTEMS;ALWAYS+LEARNING.+ALWAYS+SHIPPING." alt="Animated typing">
 
 </div>
 
