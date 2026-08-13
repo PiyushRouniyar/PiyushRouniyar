@@ -1,0 +1,35 @@
+name: Contribution Snake Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#55FF55&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Commit and Push Snake SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg
+          git diff --cached --quiet || git commit -m "chore: update contribution snake graph [skip ci]"
+          git push
