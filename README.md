@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="32%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ## ⛏️ PLAYER
 
@@ -41,11 +41,11 @@ Hackathons • Open Source
 
 <br>
 
-<img src="./assets/zombie.svg" width="95" alt="Animated Minecraft Zombie">
+<img src="./assets/zombie.svg" width="85" alt="Animated Minecraft Zombie">
 
 </td>
 
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
 ## 🌳 SKILL TREE
 
@@ -62,10 +62,6 @@ Hackathons • Open Source
 </table>
 
 <img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
-
-<table width="100%">
-<tr>
-<td width="82%" valign="top">
 
 ## 🗃️ FEATURED PROJECTS
 
@@ -112,47 +108,39 @@ Hyperlocal marketplace connecting local sellers with nearby customers.
 </tr>
 </table>
 
+<img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
+
+## ⚔️ MINECRAFT GUARDIANS
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="middle">
+<img src="./assets/zombie.svg" width="85" alt="Zombie">
+<br>
+<code>🧟 OVERWORLD ZOMBIE</code>
 </td>
-
-<td width="18%" valign="center" align="center">
-
-<br><br>
-<img src="./assets/skeleton.svg" width="95" alt="Minecraft Skeleton">
-<br><br>
-
+<td width="33%" align="center" valign="middle">
+<img src="./assets/skeleton.svg" width="85" alt="Skeleton">
+<br>
+<code>🏹 NETHER SKELETON</code>
+</td>
+<td width="34%" align="center" valign="middle">
+<img src="./assets/warden.svg" width="95" alt="Warden">
+<br>
+<code>👹 THE WARDEN</code>
 </td>
 </tr>
 </table>
 
 <img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
 
-<table width="100%">
-<tr>
-<td width="82%" valign="top">
-
-## 🐍 CONTRIBUTION GRAPH
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
 <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Graph">
 
-</div>
-
-</td>
-
-<td width="18%" valign="center" align="center">
-
 <br><br>
-<img src="./assets/warden.svg" width="105" alt="Minecraft Warden">
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
-
-<div align="center">
 
 <a href="https://github.com/PiyushRouniyar?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=55FF55&color=161B22">
