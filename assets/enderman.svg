@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 170" width="100" height="170">
+  <style>
+    .ender-body { animation: enderFloat 2.8s ease-in-out infinite alternate; transform-origin: bottom center; }
+    .ender-eyes { animation: eyePurple 1.8s ease-in-out infinite alternate; }
+    .particle { animation: particleFloat 2s linear infinite; }
+    @keyframes enderFloat { 0% { transform: translateY(0px); } 100% { transform: translateY(-5px); } }
+    @keyframes eyePurple { 0% { fill: #d946ef; filter: drop-shadow(0 0 2px #d946ef); } 100% { fill: #f472b6; filter: drop-shadow(0 0 6px #e879f9); } }
+    @keyframes particleFloat { 0% { opacity: 0; transform: translateY(0px); } 50% { opacity: 1; } 100% { opacity: 0; transform: translateY(-20px); } }
+  </style>
+  <g class="ender-body">
+    <!-- Shadow -->
+    <ellipse cx="50" cy="162" rx="20" ry="5" fill="#000000" opacity="0.4"/>
+
+    <!-- Extra Long Slim Legs -->
+    <rect x="41" y="80" width="6" height="78" fill="#0c0d12" rx="1"/>
+    <rect x="53" y="80" width="6" height="78" fill="#14161f" rx="1"/>
+
+    <!-- Slim Torso -->
+    <rect x="38" y="38" width="24" height="42" fill="#10121a" rx="2"/>
+
+    <!-- Extra Long Slim Arms -->
+    <rect x="28" y="40" width="6" height="85" fill="#0c0d12" rx="1"/>
+    <rect x="66" y="40" width="6" height="85" fill="#14161f" rx="1"/>
+
+    <!-- Head -->
+    <rect x="33" y="10" width="34" height="28" fill="#0c0d12" rx="2"/>
+    <rect x="36" y="12" width="28" height="24" fill="#14161f" rx="1"/>
+
+    <!-- Glowing Purple Eyes -->
+    <rect x="38" y="20" width="8" height="4" class="ender-eyes" fill="#d946ef" rx="1"/>
+    <rect x="54" y="20" width="8" height="4" class="ender-eyes" fill="#d946ef" rx="1"/>
+
+    <!-- Ender Particles -->
+    <circle cx="25" cy="70" r="2" class="particle" fill="#e879f9" style="animation-delay: 0.2s"/>
+    <circle cx="75" cy="50" r="2" class="particle" fill="#e879f9" style="animation-delay: 0.6s"/>
+    <circle cx="30" cy="110" r="1.5" class="particle" fill="#e879f9" style="animation-delay: 1.1s"/>
+    <circle cx="70" cy="130" r="2" class="particle" fill="#e879f9" style="animation-delay: 1.5s"/>
+
+    <!-- Badge Tag -->
+    <rect x="15" y="0" width="70" height="12" fill="#161b22" stroke="#d946ef" stroke-width="1" rx="3"/>
+    <text x="50" y="9" fill="#d946ef" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">👁️ ENDERMAN</text>
+  </g>
+</svg>

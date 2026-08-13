@@ -55,6 +55,16 @@ Hackathons • Open Source
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,react,nextjs,tailwind,nodejs,flask,postgres,mysql,prisma,firebase,supabase,git,github,unity&theme=dark&perline=6" width="100%" alt="Tech Stack Icons">
 
+<br><br>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%"><img src="./assets/skeleton.svg" width="85" alt="Minecraft Skeleton"></td>
+<td align="center" width="34%"><img src="./assets/warden.svg" width="95" alt="Minecraft Warden"></td>
+<td align="center" width="33%"><img src="./assets/enderman.svg" width="80" alt="Minecraft Enderman"></td>
+</tr>
+</table>
+
 </div>
 
 </td>
@@ -124,9 +134,5 @@ Hyperlocal marketplace connecting local sellers with nearby customers.
 <a href="https://www.linkedin.com/in/piyush-rouniyar-3a0755398">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<br><br>
-
-<img src="./assets/warden.svg" width="90" alt="Minecraft Warden">
 
 </div>
