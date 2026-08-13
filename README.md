@@ -110,30 +110,6 @@ Hyperlocal marketplace connecting local sellers with nearby customers.
 
 <img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
 
-## ⚔️ MINECRAFT GUARDIANS
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="middle">
-<img src="./assets/zombie.svg" width="85" alt="Zombie">
-<br>
-<code>🧟 OVERWORLD ZOMBIE</code>
-</td>
-<td width="33%" align="center" valign="middle">
-<img src="./assets/skeleton.svg" width="85" alt="Skeleton">
-<br>
-<code>🏹 NETHER SKELETON</code>
-</td>
-<td width="34%" align="center" valign="middle">
-<img src="./assets/warden.svg" width="95" alt="Warden">
-<br>
-<code>👹 THE WARDEN</code>
-</td>
-</tr>
-</table>
-
-<img src="./assets/pixel-divider.gif" width="100%" alt="Pixel divider">
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
@@ -148,5 +124,9 @@ Hyperlocal marketplace connecting local sellers with nearby customers.
 <a href="https://www.linkedin.com/in/piyush-rouniyar-3a0755398">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="./assets/warden.svg" width="90" alt="Minecraft Warden">
 
 </div>
